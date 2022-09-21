@@ -7,5 +7,7 @@ The purpose of this is to edit or refactor the existing code to newer or more us
 * **User Story**: This is a short exercise to practice editing code. 
 
 * **Acceptance Criteria**: This is completed when you have refactored the 'Div' codes to more current code such as 'Header'.  
+### [Horiseon](http://127.0.0.1:5500/index.html) is updated for searchnig purposes.
+![](./assets/images/Screenshot%202022-09-21%20163210.png)
 
 * **Submission**: You'll submit your completed Challenge for review. Make sure to copy the repository URL as well as the LIVE page URL. 
